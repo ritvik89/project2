@@ -1,3 +1,3 @@
 # New project 
 This project was created from local system.
-created by Ritvik Chand.
+created by Ritvik Chandrikapure.
